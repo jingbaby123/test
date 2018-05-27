@@ -1,0 +1,69 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1527409498487" stop="1527409498496">
+  <name>test001</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1527409498487" status="passed" stop="1527409498490">
+      <name>Test_001.test_dd[5]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="18240-MainThread"/>
+        <label name="host" value="小静静De大世界"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1527409498490" status="passed" stop="1527409498490">
+          <name>测试步骤2</name>
+          <title>测试步骤2</title>
+          <attachments>
+            <attachment source="158bc4be-734a-4fed-8a6f-70c28a4f414b-attachment.txt" title="描述" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1527409498492" status="passed" stop="1527409498493">
+      <name>Test_001.test_dd[6]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="18240-MainThread"/>
+        <label name="host" value="小静静De大世界"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1527409498493" status="passed" stop="1527409498493">
+          <name>测试步骤2</name>
+          <title>测试步骤2</title>
+          <attachments>
+            <attachment source="bcf5f6a1-a4cb-47c1-b5e1-4ca78fef900b-attachment.txt" title="描述" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1527409498495" status="passed" stop="1527409498496">
+      <name>Test_001.test_dd[7]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="18240-MainThread"/>
+        <label name="host" value="小静静De大世界"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1527409498496" status="passed" stop="1527409498496">
+          <name>测试步骤2</name>
+          <title>测试步骤2</title>
+          <attachments>
+            <attachment source="c084b62d-9a22-4f0d-9552-e63b844f2e55-attachment.txt" title="描述" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
